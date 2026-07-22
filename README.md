@@ -22,7 +22,7 @@
 # Быстрый старт
 
 1. Клонирование репозитория
-git clone https://github.com/juliagrigoreva/PYTHON_code_tasks_from_Stepik.git
+git clone https://github.com/juliagrigoreva/Stream-Log-Analyzer.git
 cd PYTHON_code_tasks_from_Stepik/log_parser
 
 2. Запуск
